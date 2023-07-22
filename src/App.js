@@ -193,11 +193,16 @@ return (
       <p>Note :</p>
       <ul>
         <li>
+        Enter the house name as "house1," "house2," and so on, with a unique number for each house to represent individual plots accurately.
+        </li>
+        <li>
         A plot can only accommodate a maximum of one House.
         </li>
         <li>
-        A plot can have a single or combination of services (Restaurant,Gym,Hospital).
- 
+        A plot can have a single or combination of services (Restaurant,Gym,Hospital - only add these services).
+        </li>
+        <li>
+        Use correct spelling to get best output.
         </li>
       </ul>
     </div>

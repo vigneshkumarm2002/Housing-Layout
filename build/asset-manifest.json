@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Housing-Layout/static/css/main.f224e3cf.css",
+    "main.js": "/Housing-Layout/static/js/main.e65c642a.js",
+    "static/js/787.89106f1a.chunk.js": "/Housing-Layout/static/js/787.89106f1a.chunk.js",
+    "index.html": "/Housing-Layout/index.html",
+    "main.f224e3cf.css.map": "/Housing-Layout/static/css/main.f224e3cf.css.map",
+    "main.e65c642a.js.map": "/Housing-Layout/static/js/main.e65c642a.js.map",
+    "787.89106f1a.chunk.js.map": "/Housing-Layout/static/js/787.89106f1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f224e3cf.css",
+    "static/js/main.e65c642a.js"
+  ]
+}
